@@ -1,0 +1,134 @@
+/* header */
+
+.header {
+  background-image: url("images/mountain.jpg");
+  background-position: center bottom;
+  background-size: cover;
+  height: 600px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+
+}
+
+.header .triangle {
+  height: 100px;
+  width: 100px;
+  float: left;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+
+}
+
+.header .nav {
+  list-style-type: none;
+  font-size: 20px;
+  margin-top: 20px;
+  text-transform: uppercase;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.header .nav li {
+  margin-right: 40px;
+  padding-top: 20px;
+  font-family: 'Comfortaa', cursive;
+  color: black;
+}
+
+.header .nav a {
+  text-decoration: none;
+  color: black;
+}
+
+.header .nav a:visited {
+  color: black;
+}
+
+.header h1 {
+  color: rgba(0, 0, 0, 0.9);
+  clear: both;
+  font-size: 64px;
+  padding-top: 100px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+  letter-spacing: 0.06em;
+  line-height: 1em;
+  font-family: 'Righteous', cursive;
+  font-weight: lighter;
+  text-transform: uppercase;
+
+}
+
+.header h1 span {
+  display: inline-block;
+  padding: 20px 60px;
+  border: #364b69 solid 5px;
+}
+
+/* pics */
+
+/* about */
+
+/* portfolio */
+
+/* contact */
+
+/* footer */
+
+.footer {
+  position: absolute;
+  margin: 800px 0px 0px 0px;
+  height: 150px;
+  color: black;
+  width: 100%;
+  background: #9cb4bc;
+  margin-left: -10px;
+}
+
+.footer img {
+  float: left;
+  height: 80px;
+  width: 80px;
+  padding-left: 20px;
+}
+
+.footer p {
+  float: left;
+  margin-top: 30px;
+  font-family: 'Comfortaa', cursive;
+  text-transform: uppercase;
+  font-size: 14px;
+
+}
+
+.footer .nav {
+  list-style-type: none;
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-top: 15px;
+  background: #9cb4bc;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.footer .nav li {
+  padding-top: 15px;
+  margin-right: 30px;
+  font-family: 'Comfortaa', cursive;
+  color: black;
+}
+
+.footer .nav a {
+  text-decoration: none;
+  color: black;
+}
+
+.footer .nav a:visited {
+  color: black;
+}
