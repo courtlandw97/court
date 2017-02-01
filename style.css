@@ -178,10 +178,12 @@
   color: black;
 }
 
+/*footer on small devices*/
+
 @media screen and (max-width: 550px) {
 
   .footer {
-    height: 200px;
+    height: 300px;
   }
 
   #pone {
@@ -205,7 +207,7 @@
 
   .footer .nav {
     font-size: 20px;
-    margin-top: 50px;
+    margin-top: 60px;
     width: 100%;
     display: block;
     padding-left: 0px;
