@@ -191,10 +191,10 @@
   }
 
   #ptwo {
+    display: inline;
     font-family: 'Comfortaa', cursive;
     text-transform: uppercase;
     font-size: 14px;
-    visibility: visible;
     position: relative;
     width: 100%;
     text-align: center;
