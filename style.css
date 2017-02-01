@@ -70,6 +70,43 @@
   border: #364b69 solid 5px;
 }
 
+/*header for smartphones*/
+
+@media screen and (max-width: 550px) {
+
+  .header .triangle {
+    height: 75px;
+    width: 75px;
+    float: none;
+    margin: 0px 35%;
+    position: absolute;
+
+  }
+
+  .header .nav {
+    font-size: 20px;
+    margin-top: 80px;
+    width: 100%;
+    display: block;
+    padding-left: 0px;
+  }
+
+  .header .nav li {
+    text-align: center;
+    padding: 10px 0px 0px 20px;
+  }
+
+  .header h1 {
+    font-size: 30px;
+    padding-top: 75px;
+  }
+
+  .header h1 span {
+    padding: 10px 30px;
+  }
+
+}
+
 /* pics */
 
 /* about */
@@ -97,13 +134,17 @@
   padding-left: 20px;
 }
 
-.footer p {
+#pone {
   float: left;
   margin-top: 30px;
   font-family: 'Comfortaa', cursive;
   text-transform: uppercase;
   font-size: 14px;
 
+}
+
+#ptwo {
+  display: none;
 }
 
 .footer .nav {
@@ -131,4 +172,44 @@
 
 .footer .nav a:visited {
   color: black;
+}
+
+@media screen and (max-width: 550px) {
+
+  .footer {
+    height: 200px;
+  }
+
+  #pone {
+    visibility: hidden;
+  }
+
+  #ptwo {
+    font-family: 'Comfortaa', cursive;
+    text-transform: uppercase;
+    font-size: 14px;
+    visibility: visible;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .footer img {
+    display: none;
+  }
+
+  .footer .nav {
+    font-size: 20px;
+    margin-top: 50px;
+    width: 100%;
+    display: block;
+    padding-left: 0px;
+  }
+
+  .footer .nav li {
+    text-align: center;
+    padding: 10px 0px 0px 20px;
+  }
+
 }
