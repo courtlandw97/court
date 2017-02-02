@@ -121,12 +121,6 @@
   left: 0px;
 }
 
-.pics h2 {
-  padding-top: 20px;
-  font-family: 'Comfortaa', cursive;
-  text-align: center;
-}
-
 /* about */
 
 .about {
@@ -138,12 +132,6 @@
   background: #cbd5cd;
 }
 
-.about h2 {
-  padding-top: 20px;
-  font-family: 'Comfortaa', cursive;
-  text-align: center;
-}
-
 /* portfolio */
 
 .portfolio {
@@ -152,12 +140,6 @@
   width: 100%;
   margin-top: 1800px;
   left: 0px;
-}
-
-.portfolio h2 {
-  padding-top: 20px;
-  font-family: 'Comfortaa', cursive;
-  text-align: center;
 }
 
 /* contact */
@@ -171,11 +153,6 @@
   background: #cbd5cd;
 }
 
-.contact h2 {
-  padding-top: 20px;
-  font-family: 'Comfortaa', cursive;
-  text-align: center;
-}
 
 /* footer */
 
@@ -273,4 +250,13 @@
     padding: 10px 0px 0px 20px;
   }
 
+}
+
+/* all of one element */
+
+h2 {
+  text-transform: uppercase;
+  padding-top: 20px;
+  font-family: 'Comfortaa', cursive;
+  text-align: center;
 }
