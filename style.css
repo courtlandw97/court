@@ -255,13 +255,11 @@
 
   #ptwo {
     display: block;
-    width: 150px;
+    width: 60px;
     font-family: 'Comfortaa', cursive;
-    text-transform: uppercase;
     position: relative;
     margin-left: auto;
     margin-right: auto;
-
   }
 
   .footer img {
