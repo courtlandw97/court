@@ -140,15 +140,23 @@
   height: 180px;
   max-width: 820px;
   background: black;
+  overflow: scroll;
 }
 
 .about .imgs {
+  display: flex;
+  list-style-type: none;
+  background: black;
+  margin: 50px 5%;
 
 
 }
 
 .about .imgs li {
-
+  justify-content: space-around;
+  margin-right: 5px;
+  width: 200px;
+  height: 200px;
 }
 
 
