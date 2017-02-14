@@ -216,6 +216,13 @@
   left: 0px;
 }
 
+.contact p {
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+  font-size: 20px;
+  margin-top: 100px;
+}
+
 
 /* footer */
 
