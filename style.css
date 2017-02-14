@@ -225,6 +225,7 @@
 
 .contact p a {
   color: #364b69;
+  text-decoration: underline;
 }
 
 /* footer */
