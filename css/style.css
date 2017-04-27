@@ -1370,6 +1370,7 @@ ul.portfolio li.active {
     color: #ff9899;
 }
 
-.fa-mail-reply:before, .fa-reply:before {
-    content: "\f0e0";
+#jspic {
+  height: 42px;
+  width: 37px;
 }
