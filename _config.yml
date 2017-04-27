@@ -1,0 +1,19 @@
+title: Courtland Woodall
+email: courtlandw97@courlandwoodall.com
+description: > # this means to ignore newlines until "baseurl:"
+  I'm Courtland Woodall, a front end developer in Salt Lake City Utah.
+  I create and design websites. If you are interested in hiring me, contact me using
+  any form of contact at the bottom of my page.
+baseurl: /court
+url: courtlandwoodall.com
+github_username: courtlandw97
+
+# Build settings
+baseurl: /court
+
+
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
