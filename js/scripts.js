@@ -1,17 +1,5 @@
 /*
 
-    Template Name : Rolling - Freelancer Portfolio Template
-    Author : UiPasta Team
-    Website : http://www.uipasta.com/
-    Support : http://www.uipasta.com/support/
-
-
-*/
-
-
-
-/*
-
    Table Of Content
 
    1. Preloader
@@ -111,7 +99,7 @@
         $(window).load(function(){
         $(".typing").typed({
             strings: ["I'm A Junior Frontend Developer.", "I Learn More Each Day.", "I'd Love To Work For You."],
-            typeSpeed: 50
+            typeSpeed: 75
           });
          });
 
