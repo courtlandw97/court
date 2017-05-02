@@ -13,12 +13,12 @@ body {
 }
 
 ::selection {
-    background-color: #0c486c;
+    background-color: #192231;
     color: #ffffff;
 }
 
 ::-moz-selection {
-    background-color: #0c486c;
+    background-color: #192231;
     color: #ffffff;
 }
 
@@ -80,7 +80,7 @@ fieldset {
 .section-title h2 {
     margin-top: 0;
     font-weight: 600;
-    border-bottom: 4px double #0c486c;
+    border-bottom: 4px double #192231;
 	border-radius: 25px;
     font-size: 30px;
     margin: 0 auto;
@@ -162,7 +162,7 @@ fieldset {
 .button-style:hover,
 .button-style:active,
 .button-style:focus {
-	background: #0c486c;
+	background: #192231;
 	color: #ffffff !important;
 }
 
@@ -178,7 +178,7 @@ fieldset {
 }
 
 .button-style:active:before {
-	color: #17954c;
+	color: #52658f;
 }
 
 .button-style-icon:before {
@@ -227,7 +227,7 @@ body.loaded #preloader{
     margin: -75px 0 0 -75px;
     border-radius: 50%;
     border: 3px solid transparent;
-    border-top-color: #0c486c;
+    border-top-color: #192231;
     -webkit-animation: spin 2s linear infinite;
     animation: spin 2s linear infinite;
 }
@@ -241,7 +241,7 @@ body.loaded #preloader{
     bottom: 5px;
     border-radius: 50%;
     border: 3px solid transparent;
-    border-top-color: #0c486c;
+    border-top-color: #192231;
     -webkit-animation: spin 3s linear infinite;
     animation: spin 3s linear infinite;
 }
@@ -255,7 +255,7 @@ body.loaded #preloader{
     bottom: 15px;
     border-radius: 50%;
     border: 3px solid transparent;
-    border-top-color: #0c486c;
+    border-top-color: #192231;
     -webkit-animation: spin 1.5s linear infinite;
     animation: spin 1.5s linear infinite;
 }
@@ -424,7 +424,7 @@ body.loaded #preloader{
 .navigation-background {
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
-    background: #000;
+    background: #192231;
 }
 
 .navigation-background .logo {
@@ -506,7 +506,7 @@ ul.portfolio li:hover {
 
 ul.portfolio li.active {
     color: #ffffff;
-    background-color: #0c486c;
+    background-color: #192231;
     padding: 5px 20px;
     border-radius: 20px;
     box-shadow: 0px 1px 2px 0px rgba(90, 91, 95, 0.15);
@@ -545,7 +545,7 @@ ul.portfolio li.active {
   opacity: 0;
   left: 0%;
   right: 0%;
-  background-color: #0c486c;
+  background-color: #76323f;
   width: 70px;
   height: 70px;
   border-radius: 50%;
@@ -562,7 +562,7 @@ ul.portfolio li.active {
 .mfp-image-holder .mfp-close, .mfp-iframe-holder .mfp-close {
 	margin-top: 40px;
     font-size: 50px;
-    background-color: #0c486c;
+    background-color: #192231;
     width: 44px;
 	right: 0px;
 }
@@ -604,7 +604,7 @@ ul.portfolio li.active {
 .reference-word h2 {
     font-size: 12px;
     text-transform: uppercase;
-	color: #0c486c;
+	color: #192231;
     font-weight: 700;
     letter-spacing: 4px;
     margin: 20px 0px;
@@ -615,7 +615,7 @@ ul.portfolio li.active {
 }
 
 .owl-navi {
-	color: #0c486c;
+	color: #192231;
 }
 
 .owl-navi:hover {
@@ -642,7 +642,7 @@ ul.portfolio li.active {
 }
 
 .skills-section hr {
-  border-bottom: 2px solid #0c486c;
+  border-bottom: 2px solid #192231;
   width: 42px;
   margin-left: 0px;
 }
@@ -745,14 +745,14 @@ ul.portfolio li.active {
 }
 
 .form-control:focus {
-	border-color: #0c486c;
+	border-color: #192231;
 	border-width: 2px;
 }
 
 .map {
     width: 100%;
     height: 340px;
-    border: 1px solid #0c486c;
+    border: 1px solid #192231;
 }
 
 
@@ -804,63 +804,63 @@ ul.portfolio li.active {
 }
 
 .facebook {
-   background-color: #0c486c;
+   background-color: #192231;
 }
 
 .twitter {
-   background-color: #0c486c;
+   background-color: #192231;
 }
 
 .google-plus {
-   background-color: #0c486c;
+   background-color: #192231;
 }
 
 .instagram {
-   background-color: #0c486c;
+   background-color: #192231;
 }
 
 .linkedin {
-   background-color: #0c486c;
+   background-color: #192231;
 }
 
 .pinterest {
-   background-color: #0c486c;
+   background-color: #192231;
 }
 
 .youtube {
-   background-color: #0c486c;
+   background-color: #192231;
 }
 
 .vimeo {
-   background-color: #0c486c;
+   background-color: #192231;
 }
 
 .dribbble {
-   background-color: #0c486c;
+   background-color: #192231;
 }
 
 .behance {
-   background-color: #0c486c;
+   background-color: #192231;
 }
 
 .flickr {
-   background-color: #0c486c;
+   background-color: #192231;
 }
 
 .tumblr {
-   background-color: #0c486c;
+   background-color: #192231;
 }
 
 .foursquare {
-   background-color: #0c486c;
+   background-color: #192231;
 }
 
 .github {
-   background-color: #0c486c;
+   background-color: #192231;
 }
 
 .skype {
-   background-color: #0c486c;
+   background-color: #192231;
 }
 
 
@@ -937,10 +937,10 @@ ul.portfolio li.active {
         padding: 11px 15px;
     }
     .navigation-menu .navbar-nav li a:hover {
-        color: #0c486c;
+        color: #192231;
     }
     .navigation-background .navigation-menu .navbar-nav li a:hover {
-        color: #0c486c;
+        color: #192231;
     }
     .navigation-background .navigation-menu .navbar-nav li a {
         padding: 11px 15px;
@@ -1034,7 +1034,7 @@ ul.portfolio li.active {
 /* Scroll To Top */
 
 .scroll-to-top {
-    background-color: #0c486c;
+    background-color: #192231;
     display: none;
     width: 50px;
     height: 50px;
@@ -1050,7 +1050,7 @@ ul.portfolio li.active {
 
 .scroll-to-top:hover,
 .scroll-to-top:focus {
-    background-color: #add8c7;
+    background-color: #52658f;
     color: #ffffff;
 }
 
@@ -1367,7 +1367,7 @@ ul.portfolio li.active {
 }
 
 .fa :after, :before {
-    color: #ff9899;
+    color: #76323f;
 }
 
 #jspic {

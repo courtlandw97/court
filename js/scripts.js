@@ -98,7 +98,7 @@
 
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["I'm A Junior Frontend Developer.", "I Learn More Each Day.", "I'd Love To Work For You."],
+            strings: ["I'm A Freelance Web Developer.", "I Make Websites.", "I'd Love To Work With You."],
             typeSpeed: 75
           });
          });

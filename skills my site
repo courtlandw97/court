@@ -1,0 +1,55 @@
+<div class="row">
+
+              <div class="col-md-4 col-sm-6">
+                <div class="skills-detail">
+                  <img src="images/icons/js-logo.png"  id="jspic" alt="">
+                  <h3>JS & jQuery</h3>
+                  <hr>
+                  <p>Right now I only have a basic understanding of Javascript and JQuery, but soon I will be proficient with both.</p>
+                </div>
+              </div>
+
+			<div class="col-md-4 col-sm-6">
+				<div class="skills-detail">
+					<i class="fa fa-html5 color-5"></i>
+					<h3>HTML5</h3>
+					<hr>
+					<p>Although I can always learn more, I am very proficient with HTML5. I have a very strong understanding of it.</p>
+				</div>
+			</div>
+
+			<div class="col-md-4 col-sm-6">
+				<div class="skills-detail">
+					<i class="fa fa-css3 color-6"></i>
+					<h3>CSS3</h3>
+					<hr>
+					<p>Similar to HTML5, I am very proficient with CSS3 and I will continue to learn more each and every day.</p>
+				</div>
+			</div>
+
+      <div class="col-md-4 col-sm-6">
+        <div class="skills-detail">
+          <i class="fa fa-wordpress color-1"></i>
+          <h3>WordPress</h3>
+          <hr>
+          <p>Although it isn't a coding language, WordPress is very common and I feel everyone should know how to use it.</p>
+        </div>
+      </div>
+
+    <div class="col-md-4 col-sm-6">
+      <div class="skills-detail">
+        <i class="fa fa-desktop color-2"></i>
+        <h3>Web Design</h3>
+        <hr>
+        <p>I wouldn't claim to be the best designer ever, but I do have some experience designing logos and websites for clients.</p>
+      </div>
+    </div>
+
+    <div class="col-md-4 col-sm-6">
+      <div class="skills-detail">
+        <i class="fa fa-line-chart color-4"></i>
+        <h3>SEO</h3>
+        <hr>
+        <p>I have experience optimizing pages, creating content, and managing social media accounts for real companies. &nbsp;</p>
+      </div>
+    </div>
