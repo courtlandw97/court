@@ -324,6 +324,10 @@ body.loaded #preloader{
     vertical-align: middle;
 }
 
+.header-top-area.navigation-background {
+    z-index: 999 !important;
+}
+
 .header-text {}
 
   .header-top-area.navigation-background {
@@ -475,6 +479,10 @@ body.loaded #preloader{
 
 
 /* Portfolio */
+
+.mfp-content {
+    z-index: 999999 !important;
+}
 
 .portfolio {}
 
